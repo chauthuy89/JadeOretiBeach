@@ -1,0 +1,50 @@
+﻿JadeVersionNumber 7.0.12
+JadePatchNumber 0
+Platform WindowsNT 10.0 
+Encoding UnicodeUTF8 
+Version 6/7.0.12 
+Schema OretiViewSchema CompleteDefinition
+Locales 5129 
++++++AppGlobalDefinitions 
+<<<<<InstanceData 
+^^^^^Application 
+2121/Application __htmlAttributeOffsetDict Object 6 __inspectorObject Object 6 __jadeHttpConnection Object 6 __overridePatchNumber Integer 4 __patchControlString String -1 __patchVersionDict Object 6 __reportWriterRef Object 6 _aboutFormName String 31 _consoleMemRefs Binary 33 _defaultLocaleId Integer 4 _dynamicPropertyBag Object 6 _internetPipe Connection 6 _internetPipeName String -1 _modifiedBy String 31 _modifiedTimestamp TimeStamp 8 _numberOfPipes Integer 4 _patchVersion Integer 4 _propertyBag Binary -1 _startupFormName String 31 _systemVersion String 9 _useNullValues Boolean 1 _useXMLConfigFile Boolean 1 _useXMLDocumentParser Boolean 1 _webAppDirectory String -1 _webAppExtension JadeWebAppExtension 6 _webBaseURL String -1 _webConfigDynamicProperties Object 6 _webDelayBetweenApps Integer 4 _webDisplayMessages Boolean 1 _webDisplayPreference Character 1 _webEnabled Boolean 1 _webFinalizeMethod JadeMethod 6 _webHomePage String 31 _webInitializeMethod JadeMethod 6 _webIsSecure Boolean 1 _webLogFile Object 6 _webMachineName String -1 _webMaxHTMLSize Integer 4 _webMessage JadeWebMessage 6 _webMethodExecutionPrefix String 31 _webQueue JadeWebQueue 6 _webServiceClasses String -1 _webSession WebSession 6 _webSessionManager WebSessionManager 6 _webSessionTimeout Integer 4 _webShowModal Boolean 1 _webStartupForm Form 6 _webStartupFormName String 31 _webStatusLineDisplay String -1 _webUseHTML32 Boolean 1 _webUseSessionHandling Boolean 1 _webVirtualDirectory String -1 _webWaitForReply Boolean 1 aboutForm Form 6 appVersion String 31 applicationType Character 1 controlSpacing Integer 4 currentLocale Locale 6 currentLocaleInfo LocaleFullInfo 6 defaultApp Boolean 1 defaultMdi Boolean 1 finalizeMethod Method 6 fontBold Boolean 1 fontName String 31 fontSize Real 8 formMargin Integer 4 heightSingleLineControl Integer 4 helpFile String -1 icon Binary -1 initializeMethod Method 6 jadeWebServiceManager JadeWebServiceManager 6 name String 31 printer Printer 6 schema Schema 6 showBubbleHelp Boolean 1 startupForm Form 6 useBorderStyleOnly Boolean 1 webMinimumResponseTime Integer 4 xamlStartup JadeXamlClass 6 
+349/1462.4 15/OretiViewSchema 0.0 0.0 0.0 0 0/ 0.0 0.0 0/ 0/ 0 0.0 0.0 0/ 10/2015014005 23/2017:10:24:13:54:36.012 0 0 0/ 8/MainMenu 6/7.0.12 0 0 0 0/ 0.0 0/ 0.0 0 0 0/ 0 0/ 0/ 0/ 0 0.0 0/ 0 0.0 0/ 0.0 0/ 0.0 0.0 0 0 0.0 0/ 0/ 0 0 0/ 0 0.0 0/ 1/G 4 0.0 0.0 1 0 0/ 0 13/MS Sans Serif 8.25 7 14 0/ 0/ 0/ 0.0 15/OretiViewSchema 0.0 1280.4 0 1468.5 0 0 0.0 
+*****Application
+^^^^^Class 
+6/Class 
+16/5.10 8/CheckBox 
+16/5.14 8/GroupBox 
+21/5.26 12/OptionButton 
+*****Class 
+>>>>>InstanceData 
+<<<<<CollectionData 
+^^^^^Application 
+68/Application threeDControls ClassColl 6 _webEventClasses ClassColl 6 
+43/1462.4 11/Application 14/5.14 5.26 5.10 0/ 
+*****Application 
+>>>>>CollectionData 
+<<<<<FixupData 
+>>>>>FixupData 
+-----AppGlobalDefinitions
++++++FormDefinitions 
+<<<<<InstanceData 
+^^^^^Form 
+1568/Form ___windowPtr MemoryAddress 12 __userObject Object 6 _hyperText String -1 _modifiedBy String 31 _modifiedTimestamp TimeStamp 8 _patchVersion Integer 4 _sysDHTMLScript String -1 _systemVersion String 9 _webCssClass String -1 _webCssDefinition String -1 _webEventMappings String -1 backBrushStyle Integer 4 backColor Integer 4 borderStyle Integer 4 bubbleHelp String -1 description String -1 disableReason String -1 dragCursor Binary -1 enabled Boolean 1 height Real 8 helpContextId Integer 4 helpKeyword String -1 ignoreSkin Boolean 1 left Real 8 mouseCursor Binary -1 mousePointer Integer 4 name String 31 securityLevelEnabled Integer 4 securityLevelVisible Integer 4 skinCategoryName String 31 tag String -1 top Real 8 userObject Object 6 userScript String -1 visible Boolean 1 width Real 8 _eventMappings Binary -1 _painterModifiedTimeStamp TimeStamp 8 _webEnableHttpRequest Boolean 1 _webRegenPage Boolean 1 allowDocking Integer 4 backBrush Binary -1 caption String 256 clientHeight Integer 4 clientWidth Integer 4 clipControls Boolean 1 controlBox Boolean 1 icon Binary -1 locale Locale 6 maxButton Boolean 1 mdiChild Integer 4 mdiFrame Boolean 1 minButton Boolean 1 minimumHeight Integer 4 minimumWidth Integer 4 paintedDialogBaseUnits Integer 4 printerForm Boolean 1 scaleForm Boolean 1 scrollBars Integer 4 secureForm Boolean 1 userProfile UserProfile 6 webBrowserAutoRefreshInterval Integer 4 webBrowserAutoRefreshURL String -1 webBrowserDisableBackButton Boolean 1 webEncodingType Character 1 webFileName String -1 webForm Boolean 1 windowState Integer 4 
+Locale 5129
+14/10/lbGreeting 
+269/1468.8 10/GuestLogIn 0/ 0.0 0/ 0/ 0/ 0 0/ 0/ 0/ 0/ 0/ 0 -2147483633 2 0/ 0/ 0/ 0/ 1 363 0 0/ 0 193 0/ 0 10/GuestLogIn 0 0 0/ 0/ 116 0.0 0/ 1 635 0/ 23/2017:10:24:15:20:27.398 0 0 0 0/ 10/GuestLogIn 324 619 1 1 0/ 1324.4 1 0 0 1 0 0 1048584 0 1 0 0 0.0 0 0/ 0 0/ 0/ 0 0 
+Locale 5129
+0/
+259/1468.5 8/MainMenu 0/ 0.0 0/ 0/ 0/ 0 0/ 0/ 0/ 0/ 0/ 0 -2147483633 2 0/ 0/ 0/ 0/ 1 363 0 0/ 0 287 0/ 0 8/MainMenu 0 0 0/ 0/ 71 0.0 0/ 1 423 0/ 23/2017:10:24:15:22:37.547 0 0 0 0/ 8/MainMenu 324 407 1 1 0/ 1324.4 1 0 0 1 0 0 1048584 0 1 0 0 0.0 0 0/ 0 0/ 0/ 0 0 
+Locale 5129
+180/8/txtEmail 12/txtFirstname 10/txtSurname 11/txtPassword 11/txtUserName 10/statusLine 2/cb 7/btClose 11/btNewRunner 7/lbEmail 11/lbFirstname 9/lbSurname 10/lbusername 10/lbPassword 
+280/1468.6 14/RegisterRunner 0/ 0.0 0/ 0/ 0/ 0 0/ 0/ 0/ 0/ 0/ 0 -2147483633 2 0/ 0/ 0/ 0/ 1 363 0 0/ 0 310 0/ 0 14/RegisterRunner 0 0 0/ 0/ 94 0.0 0/ 1 493 0/ 23/2017:10:24:15:00:38.760 0 0 0 0/ 14/RegisterRunner 324 477 1 1 0/ 1324.4 1 0 0 1 0 0 1048584 0 1 0 0 0.0 0 0/ 0 0/ 0/ 0 0 
+Locale 5129
+83/11/btNewRunner 7/btLogIn 7/btGuest 7/tXTpswd 5/txtUN 11/lblPassword 11/lblUserName 
+272/1468.7 11/RunnerLogin 0/ 0.0 0/ 0/ 0/ 0 0/ 0/ 0/ 0/ 0/ 0 -2147483633 2 0/ 0/ 0/ 0/ 1 363 0 0/ 0 509 0/ 0 11/RunnerLogin 0 0 0/ 0/ 306 0.0 0/ 1 423 0/ 23/2017:10:24:15:20:36.773 0 0 0 0/ 11/RunnerLogin 324 407 1 1 0/ 1324.4 1 0 0 1 0 0 1048584 0 1 0 0 0.0 0 0/ 0 0/ 0/ 0 0 
+*****Form 
+^^^^^Button
+1573/Button ___windowPtr MemoryAddress 12 __userObject Object 6 _hyperText String -1 _modifiedBy String 31 _modifiedTimestamp TimeStamp 8 _patchVersion Integer 4 _sysDHTMLScript String -1 _systemVersion String 9 _webCssClass String -1 _webCssDefinition String -1 _webEventMappings String -1 backBrushStyle Integer 4 backColor Integer 4 borderStyle Integer 4 bubbleHelp String -1 description String -1 disableReason String -1 dragCursor Binary -1 enabled Boolean 1 height Real 8 helpContextId Integer 4 helpKeyword String -1 ignoreSkin Boolean 1 left Real 8 mouseCursor Binary -1 mousePointer Integer 4 name String 31 securityLevelEnabled Integer 4 securityLevelVisible Integer 4 skinCategoryName String 31 tag String -1 top Real 8 userObject Object 6 userScript String -1 visible Boolean 1 width Real 8 _eventMappings Binary -1 _webAutoPostBack Boolean 1 _webInFocus Boolean 1 backBrush Binary -1 borderColorSingle Integer 4 fontBold Boolean 1 fontItalic Boolean 1 fontName String 31 fontSize Real 8 fontStrikethru Boolean 1 fontUnderline Boolean 1 fontWeight Integer 4 foreColor Integer 4 form Form 6 index Integer 4 parent Window 6 parentAspect Integer 4 parentBottomOffset Integer 4 parentRightOffset Integer 4 relativeHeight Boolean 1 relativeLeft Boolean 1 relativeTop Boolean 1 relativeWidth Boolean 1 show3D Integer 4 tabIndex Integer 4 tabStop Boolean 1 autoSize Integer 4 buttonPicture Integer 4 cancel Boolean 1 caption String -1 default Boolean 1 picture Binary -1 pictureDisabled Binary -1 pictureDown Binary -1 style Integer 4 value Boolean 1 webFileName String -1 
+247/1770.8 7/btClose 0/ 0.0 0/ 0/ 0/ 0 0/ 0/ 0/ 0/ 0/ 0 -2147483633 0 0/ 0/ 0/ 0/ 1 24 0 0/ 0 317 0/ 0 7/btClose 0 0 0/ 0/ 249 0.0 0/ 1 73 0/ 0 0 0/ 0 0 0 0/ 8.25 0 0 0 -2147483630 1468.6 0 1468.6 0 51 87 0 0 0 0 3 7 1 1 0 0 5/Close 0 0/ 0/ 0/ 0 0 0/ 
+263/
